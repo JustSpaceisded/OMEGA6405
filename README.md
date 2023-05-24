@@ -6,13 +6,13 @@
 <img src="assets/img/wave.gif" width="28">
 	
 <!--tagline-->
-<h3 align="center">Cool 7th grader</h3>
+<h3 align="center">Just a person tha can code</h3>
 
 <!--badges-->
 <p align="center">
-<img alt="failed to load resource" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-<img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="failed to load resource"/>
-<a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
+<img alt="failed to load resource" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+<img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="failed to load resource"/>
+<a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
 	</a>
 <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
