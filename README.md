@@ -21,9 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="failed to load resource"/>
 <a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="balls"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
 	</a>
-<!--typing-->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+Space!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+Two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="failed to load resource" /></a>
+
 	
 <!--about me-->  
 - 🔭 I’m currently working on [My Readme]
