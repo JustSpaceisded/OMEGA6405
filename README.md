@@ -14,21 +14,21 @@
 <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="failed to load resource"/>
 <a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
 	</a>
-<a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
-<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
-<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+<a href="https://github.com/JustSpaceisded?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JustSpaceisded?color=4C1&logo=github"></a>
+<a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JustSpaceisded/JustSpaceisded?label=Profile%20update&style=fflat-square"></a>
+<a href="https://github.com/JustSpaceisded/JustSpaceisded/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/JustSpaceisded/JustSpaceisded/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 <a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
 <a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
 </p>
 
 <!--typing-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="failed to load resource" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+Space!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+Two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="failed to load resource" /></a>
 	
 <!--about me-->  
-- 🔭 I’m currently working on [Cookie Destroyer](https://github.com/OMEGA6405/CookieDestroyer)
+- 🔭 I’m currently working on [My Readme]
 	
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 	
 - 👯 I’m looking to collaborate on [My Youtube](you)
 	
@@ -36,16 +36,16 @@
 	
 - 👨‍💻 All of my projects are available at [My Website](https://OMEGA6405.github.io)
 	
-- 💬 Ask me about **Base64**
+- 💬 Ask me about **Anything** 
 	
-- 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
+- 📫 How to reach me **Bambiyoubozoyt@gmail.com**
 	
-- ⚡ Fun fact **I can solve a Rubix cube**
+- ⚡ Fun fact **I can solve a Rubix cube 2x2**
 	
 - 🖥️ My Discord Server
 	
 <!--discord invite-->
-[![Join us on Discord](https://invidget.switchblade.xyz/tjShmfFNb9)](https://discord.gg/tjShmfFNb9)
+[![Join us on Discord](https://invidget.switchblade.xyz/tjShmfFNb9)](https://discord.gg/67GA8SkejR)
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
