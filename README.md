@@ -11,7 +11,7 @@
 
 <a href="https://github.com/JustSpaceisded?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JustSpaceisded?color=4C1&logo=github"></a>
 <a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JustSpaceisded/JustSpaceisded?label=Profile%20update&style=fflat-square"></a>
-<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/JustSpaceisded/JustSpaceisded/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 <a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
 <a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
 </p>
