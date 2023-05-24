@@ -1,6 +1,6 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm OMEGA
+  Hi, I'm space
 
 <!--wave gif-->
 <img src="assets/img/wave.gif" width="28">
@@ -19,7 +19,7 @@
 <p align="center">
 <img alt="failed to load resource" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
 <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="failed to load resource"/>
-<a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
+<a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="balls"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
 	</a>
 <!--typing-->
 <p align="center">
